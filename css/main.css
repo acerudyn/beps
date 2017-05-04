@@ -1,5 +1,6 @@
 
 /*
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
 Template Name: Multi
 Version: 1.0
 Author: ShapeBootstrap
@@ -8,11 +9,10 @@ Author URL: http://shapebootstrap.net
 /*************************
 *******Typography******
 **************************/
-@import url("http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic");
 body {
   padding-top: 100px;
   background: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Tangerine', sans-serif;
   font-weight: 400;
   color: #64686d;
   line-height: 26px;
