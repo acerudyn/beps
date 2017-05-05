@@ -1079,7 +1079,7 @@ ul.nostyle i {
   display: block;
   margin-bottom: 5px;
   text-transform: uppercase;
-  color: #45aed6;
+  color: transparent;
 }
 #blog .blog-post.blog-large .entry-title {
   margin-top: 0;
@@ -1110,7 +1110,7 @@ ul.nostyle i {
   display: block;
   margin-bottom: 5px;
   text-transform: uppercase;
-  color: #45aed6;
+  color: transparent;
 }
 #blog .blog-post.blog-media .entry-title {
   margin-top: 0;
